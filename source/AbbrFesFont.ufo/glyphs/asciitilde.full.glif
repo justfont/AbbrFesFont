@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde.full" format="2">
+	<advance width="537" height="1000"/>
+	<unicode hex="FF5E"/>
+	<note>
+		uniFF5E
+	</note>
+	<outline>
+		<contour>
+			<point x="73" y="393" type="curve" smooth="yes"/>
+			<point x="81.667" y="393"/>
+			<point x="93.333" y="397.333"/>
+			<point x="108" y="406" type="curve" smooth="yes"/>
+			<point x="150.667" y="429.333"/>
+			<point x="189.333" y="444.667"/>
+			<point x="224" y="452" type="curve" smooth="yes"/>
+			<point x="230" y="453.333"/>
+			<point x="234.667" y="454"/>
+			<point x="238" y="454" type="curve" smooth="yes"/>
+			<point x="259.333" y="454"/>
+			<point x="278" y="443"/>
+			<point x="294" y="421" type="curve" smooth="yes"/>
+			<point x="306.667" y="403.667"/>
+			<point x="321" y="395"/>
+			<point x="337" y="395" type="curve" smooth="yes"/>
+			<point x="343" y="395"/>
+			<point x="348.667" y="396"/>
+			<point x="354" y="398" type="curve" smooth="yes"/>
+			<point x="372.667" y="404.667"/>
+			<point x="427.333" y="444.667"/>
+			<point x="438" y="458" type="curve"/>
+			<point x="458.667" y="478.667"/>
+			<point x="471.667" y="496.333"/>
+			<point x="477" y="511" type="curve" smooth="yes"/>
+			<point x="479.667" y="521.667"/>
+			<point x="475.333" y="530"/>
+			<point x="466" y="530" type="curve" smooth="yes"/>
+			<point x="464" y="530"/>
+			<point x="460.333" y="528.667"/>
+			<point x="455" y="526" type="curve" smooth="yes"/>
+			<point x="450.333" y="523.333"/>
+			<point x="446.333" y="519"/>
+			<point x="443" y="513" type="curve" smooth="yes"/>
+			<point x="428.333" y="487.667"/>
+			<point x="382" y="450.667"/>
+			<point x="354" y="440" type="curve" smooth="yes"/>
+			<point x="348.667" y="438"/>
+			<point x="344" y="437"/>
+			<point x="340" y="437" type="curve" smooth="yes"/>
+			<point x="331.333" y="437"/>
+			<point x="322.333" y="442.667"/>
+			<point x="313" y="454" type="curve" smooth="yes"/>
+			<point x="295.667" y="477.333"/>
+			<point x="273.667" y="489"/>
+			<point x="247" y="489" type="curve" smooth="yes"/>
+			<point x="240.333" y="489"/>
+			<point x="231.333" y="487.667"/>
+			<point x="220" y="485" type="curve" smooth="yes"/>
+			<point x="198.667" y="479"/>
+			<point x="186.667" y="476"/>
+			<point x="184" y="476" type="curve"/>
+			<point x="146" y="461" type="line"/>
+			<point x="119.333" y="445"/>
+			<point x="95" y="435.667"/>
+			<point x="79" y="429" type="curve" smooth="yes"/>
+			<point x="73" y="427"/>
+			<point x="68.333" y="425"/>
+			<point x="65" y="423" type="curve" smooth="yes"/>
+			<point x="61.667" y="421"/>
+			<point x="60" y="418.667"/>
+			<point x="60" y="416" type="curve"/>
+			<point x="58" y="413.333"/>
+			<point x="57" y="410.333"/>
+			<point x="57" y="407" type="curve" smooth="yes"/>
+			<point x="57" y="403"/>
+			<point x="59.333" y="399"/>
+			<point x="64" y="395" type="curve" smooth="yes"/>
+			<point x="66" y="393.667"/>
+			<point x="69" y="393"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 13 values pushed */
+37 1 0 74 0 0 0 118 24 23 1 7 22 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-28 05:35:57 +0000</string>
+		</dict>
+	</lib>
+</glyph>

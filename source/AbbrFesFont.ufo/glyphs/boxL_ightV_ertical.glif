@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxLightVertical" format="2">
+	<advance width="1000" height="1000"/>
+	<unicode hex="2502"/>
+	<note>
+		uni2502
+	</note>
+	<outline>
+		<contour>
+			<point x="479" y="-120" type="line"/>
+			<point x="521" y="-120" type="line"/>
+			<point x="521" y="880" type="line"/>
+			<point x="479" y="880" type="line"/>
+			<point x="479" y="-120" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-28 05:36:13 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.full" format="2">
+	<advance width="799" height="1000"/>
+	<unicode hex="FFE3"/>
+	<note>
+		uniFFE3
+	</note>
+	<outline>
+		<contour>
+			<point x="95" y="645" type="curve" smooth="yes"/>
+			<point x="99" y="645"/>
+			<point x="101.667" y="645.333"/>
+			<point x="103" y="646" type="curve" smooth="yes"/>
+			<point x="110.333" y="648"/>
+			<point x="133" y="650"/>
+			<point x="171" y="652" type="curve" smooth="yes"/>
+			<point x="242" y="657" type="line"/>
+			<point x="251.333" y="660.333"/>
+			<point x="267" y="662.333"/>
+			<point x="289" y="663" type="curve" smooth="yes"/>
+			<point x="341" y="668" type="line" smooth="yes"/>
+			<point x="371.667" y="672"/>
+			<point x="408.667" y="674"/>
+			<point x="452" y="674" type="curve" smooth="yes"/>
+			<point x="472.667" y="674"/>
+			<point x="502.667" y="675"/>
+			<point x="542" y="677" type="curve" smooth="yes"/>
+			<point x="561.333" y="678.333"/>
+			<point x="576" y="679"/>
+			<point x="586" y="679" type="curve" smooth="yes"/>
+			<point x="680" y="676" type="line" smooth="yes"/>
+			<point x="702" y="675.333"/>
+			<point x="716" y="675.333"/>
+			<point x="722" y="676" type="curve" smooth="yes"/>
+			<point x="726.667" y="676.667"/>
+			<point x="731.333" y="680.667"/>
+			<point x="736" y="688" type="curve" smooth="yes"/>
+			<point x="738.667" y="692.667"/>
+			<point x="740" y="697.333"/>
+			<point x="740" y="702" type="curve" smooth="yes"/>
+			<point x="740" y="715.333"/>
+			<point x="729.333" y="721"/>
+			<point x="708" y="719" type="curve"/>
+			<point x="694.667" y="719.667"/>
+			<point x="672.667" y="720"/>
+			<point x="642" y="720" type="curve" smooth="yes"/>
+			<point x="550.667" y="720"/>
+			<point x="444.667" y="715.667"/>
+			<point x="324" y="707" type="curve"/>
+			<point x="313.333" y="703.667"/>
+			<point x="273.333" y="700"/>
+			<point x="204" y="696" type="curve" smooth="yes"/>
+			<point x="133.333" y="692"/>
+			<point x="92.667" y="687.333"/>
+			<point x="82" y="682" type="curve"/>
+			<point x="65.333" y="676.667"/>
+			<point x="57" y="670.667"/>
+			<point x="57" y="664" type="curve" smooth="yes"/>
+			<point x="57" y="654.667"/>
+			<point x="76.333" y="645"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+33 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 28 values pushed */
+0 4 3 0 0 4 114 0 3 3 2 95 0 2 2 16 77 0 0 0 1 98 0 1 1 14 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 25 values pushed */
+0 4 3 0 0 4 114 0 1 0 0 1 0 101 0 3 3 2 95 0 2 2 16 3 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 8 values pushed */
+18 117 33 23 16 5 7 27 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-28 05:35:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

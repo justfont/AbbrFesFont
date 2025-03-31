@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowerOneEighthBlock" format="2">
+	<advance width="1000" height="1000"/>
+	<unicode hex="2581"/>
+	<note>
+		uni2581
+	</note>
+	<outline>
+		<contour>
+			<point x="0" y="-120" type="line"/>
+			<point x="1000" y="-120" type="line"/>
+			<point x="1000" y="5" type="line"/>
+			<point x="0" y="5" type="line"/>
+			<point x="0" y="-120" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-28 05:36:01 +0000</string>
+		</dict>
+	</lib>
+</glyph>

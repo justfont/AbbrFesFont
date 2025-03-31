@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+	<advance width="250" height="557"/>
+	<unicode hex="005E"/>
+	<note>
+		asciicircum
+	</note>
+	<outline>
+		<contour>
+			<point x="52" y="518" type="curve" smooth="yes"/>
+			<point x="61.333" y="518"/>
+			<point x="69.333" y="526.333"/>
+			<point x="72" y="537" type="curve"/>
+			<point x="86.667" y="562.333"/>
+			<point x="93.333" y="570.333"/>
+			<point x="112" y="593" type="curve" smooth="yes"/>
+			<point x="114.667" y="595.667"/>
+			<point x="118.167" y="600.333"/>
+			<point x="122.5" y="607" type="curve" smooth="yes"/>
+			<point x="126.833" y="613.667"/>
+			<point x="131" y="617.667"/>
+			<point x="135" y="619" type="curve" smooth="yes"/>
+			<point x="137.667" y="619.667"/>
+			<point x="140.667" y="618.333"/>
+			<point x="144" y="615" type="curve" smooth="yes"/>
+			<point x="146.667" y="611"/>
+			<point x="149.333" y="605"/>
+			<point x="152" y="597" type="curve"/>
+			<point x="164" y="574.333"/>
+			<point x="183.333" y="551.667"/>
+			<point x="194" y="545" type="curve" smooth="yes"/>
+			<point x="200.667" y="541.667"/>
+			<point x="205.667" y="540"/>
+			<point x="209" y="540" type="curve" smooth="yes"/>
+			<point x="215.667" y="540"/>
+			<point x="219" y="543.667"/>
+			<point x="219" y="551" type="curve" smooth="yes"/>
+			<point x="219" y="559"/>
+			<point x="211.333" y="575.667"/>
+			<point x="196" y="601" type="curve" smooth="yes"/>
+			<point x="171" y="641" type="line" smooth="yes"/>
+			<point x="161.667" y="655.667"/>
+			<point x="155.167" y="665.333"/>
+			<point x="151.5" y="670" type="curve" smooth="yes"/>
+			<point x="147.833" y="674.667"/>
+			<point x="143.333" y="677.333"/>
+			<point x="138" y="678" type="curve" smooth="yes"/>
+			<point x="130.667" y="679.333"/>
+			<point x="124.667" y="677.667"/>
+			<point x="120" y="673" type="curve" smooth="yes"/>
+			<point x="116" y="669"/>
+			<point x="109" y="657.333"/>
+			<point x="99" y="638" type="curve" smooth="yes"/>
+			<point x="85.667" y="613.333"/>
+			<point x="77" y="599.333"/>
+			<point x="73" y="596" type="curve"/>
+			<point x="63" y="579.333"/>
+			<point x="51.333" y="564.667"/>
+			<point x="38" y="552" type="curve" smooth="yes"/>
+			<point x="33.333" y="548"/>
+			<point x="31" y="543.333"/>
+			<point x="31" y="538" type="curve" smooth="yes"/>
+			<point x="31" y="533.333"/>
+			<point x="33.333" y="528.667"/>
+			<point x="38" y="524" type="curve" smooth="yes"/>
+			<point x="43.333" y="520"/>
+			<point x="48" y="518"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHB[ ]	/* 4 values pushed */
+10 1 1 50 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-28 05:30:46 +0000</string>
+		</dict>
+	</lib>
+</glyph>

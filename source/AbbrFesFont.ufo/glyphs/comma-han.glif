@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma-han" format="2">
+	<advance width="469" height="1000"/>
+	<unicode hex="3001"/>
+	<note>
+		uni3001
+	</note>
+	<outline>
+		<contour>
+			<point x="284" y="346" type="curve"/>
+			<point x="294.667" y="342"/>
+			<point x="307" y="349.667"/>
+			<point x="307" y="359" type="curve" smooth="yes"/>
+			<point x="307" y="364.333"/>
+			<point x="304" y="372.333"/>
+			<point x="298" y="383" type="curve" smooth="yes"/>
+			<point x="279.333" y="417.667"/>
+			<point x="211.667" y="499"/>
+			<point x="201" y="499" type="curve"/>
+			<point x="172" y="490" type="line"/>
+			<point x="163.333" y="486"/>
+			<point x="159" y="481"/>
+			<point x="159" y="475" type="curve" smooth="yes"/>
+			<point x="159" y="473"/>
+			<point x="160" y="470.333"/>
+			<point x="162" y="467" type="curve" smooth="yes"/>
+			<point x="165.333" y="462.333"/>
+			<point x="171.667" y="457"/>
+			<point x="181" y="451" type="curve" smooth="yes"/>
+			<point x="191.667" y="444.333"/>
+			<point x="198.333" y="437.667"/>
+			<point x="201" y="431" type="curve"/>
+			<point x="214.333" y="412.333"/>
+			<point x="277.333" y="346"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHB[ ]	/* 4 values pushed */
+13 6 1 50 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-28 05:34:54 +0000</string>
+		</dict>
+	</lib>
+</glyph>

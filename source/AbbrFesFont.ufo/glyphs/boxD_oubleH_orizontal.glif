@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxDoubleHorizontal" format="2">
+	<advance width="1000" height="1000"/>
+	<unicode hex="2550"/>
+	<note>
+		uni2550
+	</note>
+	<outline>
+		<contour>
+			<point x="0" y="429" type="line"/>
+			<point x="1000" y="429" type="line"/>
+			<point x="1000" y="472" type="line"/>
+			<point x="0" y="472" type="line"/>
+			<point x="0" y="429" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="288" type="line"/>
+			<point x="1000" y="288" type="line"/>
+			<point x="1000" y="331" type="line"/>
+			<point x="0" y="331" type="line"/>
+			<point x="0" y="288" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-28 05:36:17 +0000</string>
+		</dict>
+	</lib>
+</glyph>

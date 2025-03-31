@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftOneQuarterBlock" format="2">
+	<advance width="1000" height="1000"/>
+	<unicode hex="258E"/>
+	<note>
+		uni258E
+	</note>
+	<outline>
+		<contour>
+			<point x="0" y="-120" type="line"/>
+			<point x="250" y="-120" type="line"/>
+			<point x="250" y="880" type="line"/>
+			<point x="0" y="880" type="line"/>
+			<point x="0" y="-120" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-28 05:36:05 +0000</string>
+		</dict>
+	</lib>
+</glyph>
