@@ -180,8 +180,6 @@ Quality Control,QC,Q u a l i t y space C o n t r o l,Q C
 副創意總監,ACD,uni526F uni5275 uni610F uni7E3D uni76E3,A C D
 美術指導,AD,uni7F8E uni8853 uni6307 uni5C0E,A D
 媒體總監,MD,uni5A92 uni9AD4 uni7E3D uni76E3,M D
-文案,Copy Writer,uni6587 uni6848,C o p y space W r i t e r
-撰稿人,Copy Writer,uni64B0 uni7A3F uni4EBA,C o p y space W r i t e r
 廣告規劃,AE,uni5EE3 uni544A uni898F uni5283,A E
 廣告影片,CF,uni5EE3 uni544A uni5F71 uni7247,C F
 影片中的旁白,OS,uni5F71 uni7247 uni4E2D uni7684 uni65C1 uni767D,O S
@@ -201,6 +199,7 @@ omt sound,OS,o m t space s o u n d,O S
 Point of Purchase Advertising,POP,P o i n t space o f space P u r c h a s e space A d v e r t i s i n g,P O P
 Direct Marketing,DM,D i r e c t space M a r k e t i n g,D M
 Corporate Identity System,CIS,C o r p o r a t e space I d e n t i t y space S y s t e m,C I S
+Brand Identity System,BIS,B r a n d space I d e n t i t y space S y s t e m,B I S
 Graphic User Interface,GUI,G r a p h i c space U s e r space I n t e r f a c e,G U I
 Universal Design,UD,U n i v e r s a l space D e s i g n,U D
 Business Continuity Plan,BCP,B u s i n e s s space C o n t i n u i t y space P l a n,B C P
@@ -473,7 +472,7 @@ seven eleven,seven,s e v e n space e l e v e n,s e v e n
 7-Eleven,seven,seven hyphen E l e v e n,s e v e n
 Threads,脆,T h r e a d s,uni8106
 you know what i'm saying,M3,y o u space k n o w space w h a t space i quotesingle m space s a y i n g,M three
-TRUE,觸,T R U E,uni89F8
+true,觸,t r u e,uni89F8
 you only live once,YOLO,y o u space o n l y space l i v e space o n c e,Y O L O
 歡迎光臨,緩光臨,uni6B61 uni8FCE uni5149 uni81E8,uni7DE9 uni5149 uni81E8
 民主進步黨,民進黨,uni6C11 uni4E3B uni9032 uni6B65 uni9EE8,uni6C11 uni9032 uni9EE8
@@ -508,8 +507,8 @@ justfont,遮放,j u s t f o n t,uni906E uni653E
 癩蛤蟆想吃天鵝肉,癩天,uni7669 uni86E4 uni87C6 uni60F3 uni5403 uni5929 uni9D5D uni8089,uni7669 uni5929
 狗嘴吐不出象牙,狗吐,uni72D7 uni5634 uni5410 uni4E0D uni51FA uni8C61 uni7259,uni72D7 uni5410
 國際知名插畫家,國插,uni570B uni969B uni77E5 uni540D uni63D2 uni756B uni5BB6,uni570B uni63D2
-生雞蛋有，放雞屎無,生放,uni751F uni96DE uni86CB uni6709 comma.full uni653E uni96DE uni5C4E uni7121,uni751F uni653E
-生雞卵有，放雞屎無,生放,uni751F uni96DE uni5375 uni6709 comma.full uni653E uni96DE uni5C4E uni7121,uni751F uni653E
+生雞卵無，放雞屎有,生放,uni751F uni96DE uni5375 uni7121 comma.full uni653E uni96DE uni5C4E uni6709,uni751F uni653E
+生雞卵的無，放雞屎的有,生放,uni751F uni96DE uni5375 uni7684 uni7121 comma.full uni653E uni96DE uni5C4E uni7684 uni6709,uni751F uni653E
 打腫臉充胖子,打充,uni6253 uni816B uni81C9 uni5145 uni80D6 uni5B50,uni6253 uni5145
 天生我材必有用,天我,uni5929 uni751F uni6211 uni6750 uni5FC5 uni6709 uni7528,uni5929 uni6211
 泥菩薩過江,泥過,uni6CE5 uni83E9 uni85A9 uni904E uni6C5F,uni6CE5 uni904E
@@ -623,6 +622,7 @@ thank you,Q,t h a n k space y o u,Q
 疲勞轟炸,疲轟,uni75B2 uni52DE uni8F5F uni70B8,uni75B2 uni8F5F
 平民貴族,平貴,uni5E73 uni6C11 uni8CB4 uni65CF,uni5E73 uni8CB4
 百分百確定,百確,uni767E uni5206 uni767E uni78BA uni5B9A,uni767E uni78BA
+百分百之確定,百確,uni767E uni5206 uni767E uni4E4B uni78BA uni5B9A,uni767E uni78BA
 滾動式調整,滾調,uni6EFE uni52D5 uni5F0F uni8ABF uni6574,uni6EFE uni8ABF
 路上小心,路小,uni8DEF uni4E0A uni5C0F uni5FC3,uni8DEF uni5C0F
 刻板印象,刻印,uni523B uni677F uni5370 uni8C61,uni523B uni5370
@@ -693,7 +693,7 @@ thank you,Q,t h a n k space y o u,Q
 日星宋體貳號,日星宋貳,uni65E5 uni661F uni5B8B uni9AD4 uni8CB3 uni865F,uni65E5 uni661F uni5B8B uni8CB3
 日星二號宋體,日星二宋,uni65E5 uni661F uni4E8C uni865F uni5B8B uni9AD4,uni65E5 uni661F uni4E8C uni5B8B
 日星貳號宋體,日星貳宋,uni65E5 uni661F uni8CB3 uni865F uni5B8B uni9AD4,uni65E5 uni661F uni8CB3 uni5B8B
-PTT2,批兔,P T T two,uni6279 uni5154
+PTT2 ,批兔,P T T two space,uni6279 uni5154
 碩士論文,碩論,uni78A9 uni58EB uni8AD6 uni6587,uni78A9 uni8AD6
 博士論文,博論,uni535A uni58EB uni8AD6 uni6587,uni535A uni8AD6
 教學助理,助教,uni6559 uni5B78 uni52A9 uni7406,uni52A9 uni6559
@@ -739,7 +739,6 @@ tomorrow,TMR,t o m o r r o w,T M R
 by the way,BTW,b y space t h e space w a y,B T W
 Microsoft,MS,M i c r o s o f t,M S
 Microsoft Network,MSN,M i c r o s o f t space N e t w o r k,M S N
-Basic Input/Output System,BIOS,B a s i c space I n p u t slash O u t p u t space S y s t e m,B I O S
 User Interface,UI,U s e r space I n t e r f a c e,U I
 User Experience,UX,U s e r space E x p e r i e n c e,U X
 Disk Operating System,DOS,D i s k space O p e r a t i n g space S y s t e m,D O S
@@ -807,7 +806,7 @@ BLEACH,死神,B L E A C H,uni6B7B uni795E
 我們仍未知道那天所看見的花名。,未聞花名,uni6211 uni5011 uni4ECD uni672A uni77E5 uni9053 uni90A3 uni5929 uni6240 uni770B uni898B uni7684 uni82B1 uni540D period-han,uni672A uni805E uni82B1 uni540D
 果然我的青春戀愛喜劇搞錯了,果青,uni679C uni7136 uni6211 uni7684 uni9752 uni6625 uni6200 uni611B uni559C uni5287 uni641E uni932F uni4E86,uni679C uni9752
 鬼滅之刃,鬼滅,uni9B3C uni6EC5 uni4E4B uni5203,uni9B3C uni6EC5
-鋼之鍊金術師,鋼煉,uni92FC uni4E4B uni934A uni91D1 uni8853 uni5E2B,uni92FC uni7149
+鋼之鍊金術師,鋼鍊,uni92FC uni4E4B uni934A uni91D1 uni8853 uni5E2B,uni92FC uni934A
 魔法科高中的劣等生,魔劣,uni9B54 uni6CD5 uni79D1 uni9AD8 uni4E2D uni7684 uni52A3 uni7B49 uni751F,uni9B54 uni52A3
 86不存在的戰區,86,eight six uni4E0D uni5B58 uni5728 uni7684 uni6230 uni5340,eight six
 在地下城尋求邂逅是否搞錯了什麼,地下城,uni5728 uni5730 uni4E0B uni57CE uni5C0B uni6C42 uni9082 uni9005 uni662F uni5426 uni641E uni932F uni4E86 uni4EC0 uni9EBC,uni5730 uni4E0B uni57CE
@@ -815,8 +814,8 @@ BLEACH,死神,B L E A C H,uni6B7B uni795E
 櫻花莊的寵物女孩,櫻花莊,uni6AFB uni82B1 uni838A uni7684 uni5BF5 uni7269 uni5973 uni5B69,uni6AFB uni82B1 uni838A
 紫羅蘭永恆花園,紫羅蘭,uni7D2B uni7F85 uni862D uni6C38 uni6046 uni82B1 uni5712,uni7D2B uni7F85 uni862D
 咒術迴戰,咒術,uni5492 uni8853 uni8FF4 uni6230,uni5492 uni8853
-SPY×FAMILY,9,S P Y multiply F A M I L Y,nine
-間諜家家酒,9,uni9593 uni8ADC uni5BB6 uni5BB6 uni9152,nine
+SPY×FAMILY,++9,S P Y multiply F A M I L Y,plus plus nine
+間諜家家酒,++9,uni9593 uni8ADC uni5BB6 uni5BB6 uni9152,plus plus nine
 魔導少年,妖尾,uni9B54 uni5C0E uni5C11 uni5E74,uni5996 uni5C3E
 FAIRY TAIL,妖尾,F A I R Y space T A I L,uni5996 uni5C3E
 家庭教師HITMAN REBORN!,家教,uni5BB6 uni5EAD uni6559 uni5E2B H I T M A N space R E B O R N exclam,uni5BB6 uni6559
@@ -833,7 +832,7 @@ FAIRY TAIL,妖尾,F A I R Y space T A I L,uni5996 uni5C3E
 怕痛的我，把防禦力點滿就對了,防點滿,uni6015 uni75DB uni7684 uni6211 comma.full uni628A uni9632 uni79A6 uni529B uni9EDE uni6EFF uni5C31 uni5C0D uni4E86,uni9632 uni9EDE uni6EFF
 不時輕聲地以俄語遮羞的鄰座艾莉同學,遮羞艾莉,uni4E0D uni6642 uni8F15 uni8072 uni5730 uni4EE5 uni4FC4 uni8A9E uni906E uni7F9E uni7684 uni9130 uni5EA7 uni827E uni8389 uni540C uni5B78,uni906E uni7F9E uni827E uni8389
 Re：從零開始的異世界生活,Re:0,R e colon.full uni5F9E uni96F6 uni958B uni59CB uni7684 uni7570 uni4E16 uni754C uni751F uni6D3B,R e colon zero
-HUNTER×HUNTER,獵人,H U N T E R multiply H U N T E R,uni7375 uni4EBA
+HUNTER×HUNTER ,獵人,H U N T E R multiply H U N T E R space,uni7375 uni4EBA
 家庭教師HITMAN REBORN！,家教,uni5BB6 uni5EAD uni6559 uni5E2B H I T M A N space R E B O R N exclam.full,uni5BB6 uni6559
 齊木楠雄的災難,齊木,uni9F4A uni6728 uni6960 uni96C4 uni7684 uni707D uni96E3,uni9F4A uni6728
 葬送的芙莉蓮,芙莉蓮,uni846C uni9001 uni7684 uni8299 uni8389 uni84EE,uni8299 uni8389 uni84EE
@@ -912,7 +911,7 @@ Gfriend,小女友,G f r i e n d,uni5C0F uni5973 uni53CB
 Tom Hiddleston,抖森,T o m space H i d d l e s t o n,uni6296 uni68EE
 Timothée Chalamet,甜茶,T i m o t h eacute e space C h a l a m e t,uni751C uni8336
 Michael Fassbender,法鯊,M i c h a e l space F a s s b e n d e r,uni6CD5 uni9BCA
-SixTONES,六筒,S i x T O N E S,uni516D uni7B52
+SixTONES ,六筒,S i x T O N E S space,uni516D uni7B52
 少女時代,少時,uni5C11 uni5973 uni6642 uni4EE3,uni5C11 uni6642
 雞蛋蒸肉餅（GDJYB）,雞餅,uni96DE uni86CB uni84B8 uni8089 uni9905 parenleft.full G D J Y B parenright.full,uni96DE uni9905
 BLACKPINK,BP,B L A C K P I N K,B P
@@ -1031,3 +1030,10 @@ internationalization,i18n,i n t e r n a t i o n a l i z a t i o n,i one eight n
 長榮航空,長榮,uni9577 uni69AE uni822A uni7A7A,uni9577 uni69AE
 星宇航空,星宇,uni661F uni5B87 uni822A uni7A7A,uni661F uni5B87
 臺灣虎航,虎航,uni81FA uni7063 uni864E uni822A,uni864E uni822A
+黑色星期五,黑五,uni9ED1 uni8272 uni661F uni671F uni4E94,uni9ED1 uni4E94
+睜一閉一,睜一隻眼閉一隻眼,uni775C uni4E00 uni9589 uni4E00,uni775C uni4E00 uni96BB uni773C uni9589 uni4E00 uni96BB uni773C
+特別優惠,特惠,uni7279 uni5225 uni512A uni60E0,uni7279 uni60E0
+文化大革命,文革,uni6587 uni5316 uni5927 uni9769 uni547D,uni6587 uni9769
+跑咖啡廳,跑咖,uni8DD1 uni5496 uni5561 uni5EF3,uni8DD1 uni5496
+記錄過失,記過,uni8A18 uni9304 uni904E uni5931,uni8A18 uni904E
+民意調查,民調,uni6C11 uni610F uni8ABF uni67E5,uni6C11 uni8ABF

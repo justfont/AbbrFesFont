@@ -180,8 +180,6 @@ Quality Control,QC
 副創意總監,ACD
 美術指導,AD
 媒體總監,MD
-文案,Copy Writer
-撰稿人,Copy Writer
 廣告規劃,AE
 廣告影片,CF
 影片中的旁白,OS
@@ -201,6 +199,7 @@ omt sound,OS
 Point of Purchase Advertising,POP
 Direct Marketing,DM
 Corporate Identity System,CIS
+Brand Identity System,BIS
 Graphic User Interface,GUI
 Universal Design,UD
 Business Continuity Plan,BCP
@@ -474,7 +473,7 @@ seven eleven,seven
 7-Eleven,seven
 Threads,脆
 you know what i'm saying,M3
-TRUE,觸
+true,觸
 you only live once,YOLO
 歡迎光臨,緩光臨
 民主進步黨,民進黨
@@ -509,8 +508,8 @@ justfont,遮放
 癩蛤蟆想吃天鵝肉,癩天
 狗嘴吐不出象牙,狗吐
 國際知名插畫家,國插
-生雞蛋有，放雞屎無,生放
-生雞卵有，放雞屎無,生放
+生雞卵無，放雞屎有,生放
+生雞卵的無，放雞屎的有,生放
 打腫臉充胖子,打充
 天生我材必有用,天我
 泥菩薩過江,泥過
@@ -624,6 +623,7 @@ thank you,Q
 疲勞轟炸,疲轟
 平民貴族,平貴
 百分百確定,百確
+百分百之確定,百確
 滾動式調整,滾調
 路上小心,路小
 刻板印象,刻印
@@ -694,7 +694,7 @@ thank you,Q
 日星宋體貳號,日星宋貳
 日星二號宋體,日星二宋
 日星貳號宋體,日星貳宋
-PTT2,批兔
+PTT2 ,批兔
 碩士論文,碩論
 博士論文,博論
 教學助理,助教
@@ -740,7 +740,6 @@ tomorrow,TMR
 by the way,BTW
 Microsoft,MS
 Microsoft Network,MSN
-Basic Input/Output System,BIOS
 User Interface,UI
 User Experience,UX
 Disk Operating System,DOS
@@ -759,7 +758,6 @@ Temporomandibular Joint Disorder,TMD
 posttraumatic stress disorder,PTSD
 YouTuber,YTR
 thank god it's friday,TGIF
-Threads,脆
 people,peeps
 我是鎧之巨人，他是超大型巨人,我鎧他超
 我來外遇就是羅曼史、他人外遇就是不倫,我羅他不
@@ -809,7 +807,7 @@ BLEACH,死神
 我們仍未知道那天所看見的花名。,未聞花名
 果然我的青春戀愛喜劇搞錯了,果青
 鬼滅之刃,鬼滅
-鋼之鍊金術師,鋼煉
+鋼之鍊金術師,鋼鍊
 魔法科高中的劣等生,魔劣
 86不存在的戰區,86
 在地下城尋求邂逅是否搞錯了什麼,地下城
@@ -817,8 +815,8 @@ BLEACH,死神
 櫻花莊的寵物女孩,櫻花莊
 紫羅蘭永恆花園,紫羅蘭
 咒術迴戰,咒術
-SPY×FAMILY,9
-間諜家家酒,9
+SPY×FAMILY,++9
+間諜家家酒,++9
 魔導少年,妖尾
 FAIRY TAIL,妖尾
 家庭教師HITMAN REBORN!,家教
@@ -835,7 +833,7 @@ FAIRY TAIL,妖尾
 怕痛的我，把防禦力點滿就對了,防點滿
 不時輕聲地以俄語遮羞的鄰座艾莉同學,遮羞艾莉
 Re：從零開始的異世界生活,Re:0
-HUNTER×HUNTER,獵人
+HUNTER×HUNTER ,獵人
 家庭教師HITMAN REBORN！,家教
 齊木楠雄的災難,齊木
 葬送的芙莉蓮,芙莉蓮
@@ -914,7 +912,7 @@ Gfriend,小女友
 Tom Hiddleston,抖森
 Timothée Chalamet,甜茶
 Michael Fassbender,法鯊
-SixTONES,六筒
+SixTONES ,六筒
 少女時代,少時
 雞蛋蒸肉餅（GDJYB）,雞餅
 BLACKPINK,BP
@@ -1033,3 +1031,11 @@ internationalization,i18n
 長榮航空,長榮
 星宇航空,星宇
 臺灣虎航,虎航
+黑色星期五,黑五
+睜一閉一,睜一隻眼閉一隻眼
+特別優惠,特惠
+文化大革命,文革
+大學入學分科測驗,分科
+跑咖啡廳,跑咖
+記錄過失,記過
+民意調查,民調
